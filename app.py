@@ -26,7 +26,6 @@ if __name__=="__main__":
 # In[5]:
 
 
-pip install Flask
 
 
 # In[ ]:
